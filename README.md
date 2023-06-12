@@ -1,4 +1,4 @@
-# ML-based IDS for UAV
+# ML-based IDS for UAVs
 
 This repository contains the code and resources for implementing a Machine Learning-based Intrusion Detection System (IDS) for UAV (Unmanned Aerial Vehicles) networks. The IDS is designed to detect and classify malicious behavior in Tello Ryze Tech drones. The dataset used for training and testing the models was collected from scratch by contributors using the nfstream tool (https://www.nfstream.org/docs/api).
 
