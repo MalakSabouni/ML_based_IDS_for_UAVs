@@ -24,9 +24,13 @@ To run the uav_ml_ids.py script, the following dependencies are required:
 The repository is organized into the following folders:
 
 **logs**: This folder contains the logs of the IDS.
+
 **models**: The exported models are stored in this folder.
+
 **dataset**: The collected dataset is stored in this folder.
+
 **attacks_scripts**: contains scripts used to launch attacks on tello drone and collect malicious dataset
+
 Please refer to the individual files for more detailed information on their usage and functionalities.
 
 Feel free to contribute to this repository by creating pull requests and reporting any issues you encounter.
