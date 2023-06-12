@@ -6,14 +6,20 @@ This repository contains the code and resources for implementing a Machine Learn
 The following is a brief description of the files in this repository:
 
 **ml-ids-uav-final.ipynb**: This Jupyter Notebook file contains the code for building, training, and testing the main machine learning models.
+
 **nfst_dataset.py**: This script is used for feature extraction to create the dataset.
+
 **nic.sh**: This script automates the configuration of the NIC (Network Interface Card) monitoring interface.
+
 **uav_ml_ids.py**: This is the main IDS deployment file that utilizes a two-stage classification approach. The first stage employs novelty detection, while the second stage classifies the anomalies into potential attack types.
+
 # Dependencies
 To run the uav_ml_ids.py script, the following dependencies are required:
 
 **nfstream**: The nfstream library is a main dependency for the IDS.
+
 **Sudo Privilege**: Administrative privileges are required for running the script.
+
 # Folder Structure
 The repository is organized into the following folders:
 
