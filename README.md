@@ -33,4 +33,4 @@ The repository is organized into the following folders:
 
 Please refer to the individual files for more detailed information on their usage and functionalities.
 
-Feel free to contribute to this repository by creating pull requests and reporting any issues you encounter.
+
